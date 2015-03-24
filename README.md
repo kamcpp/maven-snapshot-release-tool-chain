@@ -1,4 +1,4 @@
-## sonatype-ossrh-maven-artifact-deploy-script
+## maven-snapshot-release-tool-chain
 
 ### Synopsis
 A tool-chain for making Maven snapshots and releases and deploying them in Maven central repository.
